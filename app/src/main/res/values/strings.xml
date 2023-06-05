@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="txtCedula">CI</string>
+    <string name="txtNombres">Nombres</string>
+    <string name="txtApellidos">Apellidos</string>
+    <string name="txtCorreo">Correo Electrónico</string>
+    <string name="btnCrear">Crear</string>
+</resources>
